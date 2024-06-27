@@ -1,0 +1,14 @@
+.question__title {
+  width: 450px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 30px;
+  font-size: 47px;
+  font-weight: 600;
+}
+
+.question__wrapper {
+  max-width: 1300px;
+  width: 100%;
+  margin: 0 auto;
+}

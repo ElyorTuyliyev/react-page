@@ -1,0 +1,26 @@
+.question__card-wrapper {
+  border: 2px solid #d1d1d1;
+  border-radius: 20px;
+  width: 100%;
+  padding: 20px 40px;
+}
+
+.question__name {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.question__icon-chevron-wrapper {
+  font-size: 20px;
+}
+
+.question__text {
+  /* height: 0px; */
+  transition: 5s;
+  overflow: hidden;
+}
